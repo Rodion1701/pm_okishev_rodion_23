@@ -1,0 +1,19 @@
+{
+  "name": "pm_23_16",
+  "version": "1.0.0",
+  "description": "hello",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rodion1701/pm_okishev_rodion_23.git"
+  },
+  "author": "Okishev Rodion",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rodion1701/pm_okishev_rodion_23/issues"
+  },
+  "homepage": "https://github.com/Rodion1701/pm_okishev_rodion_23#readme"
+}
